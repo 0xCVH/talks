@@ -6,11 +6,11 @@ TBA
 ## ETHDam 2024 - Security Panel: In crypto we don't trust
 TBA
 
-## ETHDam 2023 - Secure your Dapp or join the REKT database
-https://www.youtube.com/watch?v=CxtaQyTYu3k
-
 ## ETHCC Paris 2023 - Secure your Dapp or join the REKT database
 https://www.youtube.com/watch?v=x0LdQu2_v1U
+
+## ETHDam 2023 - Secure your Dapp or join the REKT database
+https://www.youtube.com/watch?v=CxtaQyTYu3k
 
 ## ETHGathering Barcelona 2023 - Auditors Protocols
 https://www.youtube.com/watch?v=tAF66vsl8aA
