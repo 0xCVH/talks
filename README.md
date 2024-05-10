@@ -1,7 +1,7 @@
 # TALKS
 
 ## ETHDam 2024 - Effective Product Security: Lessons from years of bug bounties and audits
-TBA
+https://www.youtube.com/watch?v=MkZ0cx4Wwj8
 
 ## ETHDam 2024 - Security Panel: In crypto we don't trust
 TBA
