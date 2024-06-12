@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=MkZ0cx4Wwj8
 
 ## ETHDam 2024 - Security Panel: In crypto we don't trust
-TBA
+https://t.co/9MWgc2j9LS
 
 ## ETHCC Paris 2023 - Secure your Dapp or join the REKT database
 https://www.youtube.com/watch?v=x0LdQu2_v1U
