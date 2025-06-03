@@ -1,9 +1,9 @@
 # TALKS
 
-## ETHDam 2024 - Multisigs Demystified
+## ETHDam 2025 - Multisigs Demystified
 https://www.youtube.com/watch?v=4ng6E9rx3GI
 
-## ETHDam 2024 - Panel | Why can't we keep anyone safe?
+## ETHDam 2025 - Panel | Why can't we keep anyone safe?
 https://www.youtube.com/watch?v=5sfHuRKdq-c
 
 ## ETHDam 2024 - Effective Product Security: Lessons from years of bug bounties and audits
